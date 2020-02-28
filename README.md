@@ -2,11 +2,11 @@
 Protocol analysis
 # 协议分析
 ## 基础篇
-* socket原理
+* [socket原理](https://github.com/haidragon/study_firewall)
 * http原理
-* tls(https)
+* tls(https)原理
 * Go 语言搭建web服务器
-* wireshark抓包
+* 常用抓包工具使用
 * tls深入学习
 * 如何从流量中提取证书（go语言实现）
 ## android篇
@@ -14,7 +14,6 @@ Protocol analysis
 * OKhttp框架
 * java jdk 源码分析（网络部分）
 * java jdk 源码分析（算法部分）
-* 常用抓包工具使用（Charles BrupSuite Fiddler)
 * hook 原理(frida 使用）
 * Java 层协议分析
 * so 层协议算法分析
@@ -40,7 +39,19 @@ Protocol analysis
 * bypass antidebug
 
 
- 
+ # 视频持续更新.......  
+# 其它教程
+* [study_frida](https://github.com/haidragon/study_frida)
+* [study_obscure](https://github.com/haidragon/study_obscure)
+* [study_Android_Mchange](https://github.com/haidragon/study_Android_Mchange)
+* [study_firewall](https://github.com/haidragon/study_firewall)
+* qq交流群 
+* 309262570
+* 有的课题可能没第一时在这写，可以关注我微博 [haidragonx](https://weibo.com/haidragon)同时我也会出其它教程，比如 主动防御(window驱动/linux驱动/mac驱动）、android/ios逆向、流量分析等等 有任何问题。可以联系作者
+* qq：2207344074
+## 查看完整资料请加入星球
+![](https://github.com/haidragon/study_frida/blob/master/image/1681580715267_.pic_hd.jpg)
+
 
 
 
