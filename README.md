@@ -3,10 +3,11 @@ Protocol analysis
 # 协议分析
 ## 基础篇
 * [socket原理](https://github.com/haidragon/study_firewall)
-* http原理
+* [http原理](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page2/page.md)
+* [openssl编译与使用](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page3/page.md)
 * tls(https)原理
 * Go 语言搭建web服务器
-* 常用抓包工具使用
+* [常用抓包工具使用](https://github.com/haidragon/study_tools)
 * tls深入学习
 * 如何从流量中提取证书（go语言实现）
 ## android篇
@@ -14,16 +15,16 @@ Protocol analysis
 * OKhttp框架
 * java jdk 源码分析（网络部分）
 * java jdk 源码分析（算法部分）
-* hook 原理(frida 使用）
+* [hook 原理(frida 使用)](https://github.com/haidragon/study_frida)
 * Java 层协议分析
 * so 层协议算法分析
 * view原理（如何定位UI控件)
 * bypass 单向证书验证
 * bypass 双向证书验证
 * 如何分析so中的被混淆算法
-* android 源码编译
-* 如何基于修改源码脱壳
-* 动态调试
+* [android 源码编译](https://github.com/haidragon/study_Android_Mchange)
+* [如何基于修改源码脱壳](https://github.com/haidragon/study_Android_Mchange)
+* [动态调试](https://github.com/haidragon/study_Android_Mchange)
 * bypass antidebug
 ## ios篇
 * app 砸壳
@@ -31,11 +32,11 @@ Protocol analysis
 * view原理（如何定位UI控件)
 * ios 原生算法库分析
 * 协议分析
-* hook 原理(frida 使用）
-* Thoes 使用（hook）
+* [hook 原理(frida 使用)](https://github.com/haidragon/study_frida)
+* [Thoes 使用（hook)](https://github.com/haidragon/study_reverse_analysis)
 * bypass 单向证书验证
 * bypass 双向证书验证
-* 动态调试(lldb 简单使用)
+* [动态调试(lldb 简单使用)](https://github.com/haidragon/study_tools)
 * bypass antidebug
 
 
