@@ -12,23 +12,26 @@ Protocol analysis
 * [https增加CA验证](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page7/page.md)
 * [Go语言搭建web服务器](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page9/page.md)
 * [常用抓包工具使用](https://github.com/haidragon/study_tools)
-* [如何从流量中提取证书(go语言实现)](https://github.com/haidragon/pcap_Banalysis)
+* [如何从流量中提取证书](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page10/page.md)
+* [ssl/tls hook](https://github.com/haidragon/study_frida)
+* [http代理工具实现](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page9/page.md)
+* [https代理工具实现](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page9/page.md)
 ## android篇
 * [android中协议基础](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page11/page.md)
 * [OKhttp框架](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page12/page.md)
-* [java jdk源码分析(网络部分)](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page13/page.md)
-* [java jdk源码分析(算法部分)](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page14/page.md)
 * [hook 原理(frida 使用)](https://github.com/haidragon/study_frida)
-* Java 层协议分析
-* so 层协议算法分析
-* view原理（如何定位UI控件)
-* bypass 单向证书验证
-* bypass 双向证书验证
-* 如何分析so中的被混淆算法
+* [原生socket hook](https://github.com/haidragon/study_frida)
+* [原生算法 hook](https://github.com/haidragon/study_frida)
+* [Java 层协议分析](https://github.com/haidragon/study_frida)
+* [so 层协议算法分析](https://github.com/haidragon/study_frida)
+* [view原理](https://github.com/microsoft/ApplicationInspector)[(如何定位UI控件)](https://github.com/macacajs/app-inspector)
+* [bypass 单向证书验证](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page9/page.md)
+* [bypass 双向证书验证](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page9/page.md)
+* [如何分析so中的被混淆算法](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page9/page.md)
 * [android 源码编译](https://github.com/haidragon/study_Android_Mchange)
 * [如何基于修改源码脱壳](https://github.com/haidragon/study_Android_Mchange)
 * [动态调试](https://github.com/haidragon/study_Android_Mchange)
-* bypass antidebug
+* [bypass antidebug](https://github.com/haidragon/study_exceptions_and_debugging)
 ## ios篇
 * app 砸壳
 * app 重签名
@@ -36,19 +39,15 @@ Protocol analysis
 * ios 原生算法库分析
 * 协议分析
 * [hook 原理(frida 使用)](https://github.com/haidragon/study_frida)
-* [Thoes 使用（hook)](https://github.com/haidragon/study_reverse_analysis)
+* [tweak编写（hook)](https://github.com/haidragon/study_tweak)
 * bypass 单向证书验证
 * bypass 双向证书验证
 * [动态调试(lldb 简单使用)](https://github.com/haidragon/study_tools)
-* bypass antidebug
+* [bypass antidebug](https://github.com/haidragon/study_exceptions_and_debugging)
 
 
  # 视频持续更新.......  
-# 其它教程
-* [study_frida](https://github.com/haidragon/study_frida)
-* [study_obscure](https://github.com/haidragon/study_obscure)
-* [study_Android_Mchange](https://github.com/haidragon/study_Android_Mchange)
-* [study_firewall](https://github.com/haidragon/study_firewall)
+* [对应视频教程目录](https://github.com/haidragon/haidragon_study)
 * qq交流群 
 * 309262570
 * 有的课题可能没第一时在这写，可以关注我微博 [haidragonx](https://weibo.com/haidragon)同时我也会出其它教程，比如 主动防御(window驱动/linux驱动/mac驱动）、android/ios逆向、流量分析等等 有任何问题。可以联系作者
